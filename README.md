@@ -19,7 +19,9 @@ A place for incubating and hatching ideas about GIS maps.
 **Data Sources**
 
 > El Paso County, Colorado. *Free GIS Data*. Shapefile. Acquired December 5, 2022 https://admin.elpasoco.com/free-gis-data/
+
 > ESRI AND United States Fish and Wildlife Service. *USA Critical Habitat Final* (MatureSupport). Jan 25, 2021. Shapefile. Acquired December 5, 2022. https://www.arcgis.com/home/item.html?id=bad5c810721c4d0c94cfb93a18119c47
+
 > Multi-Resolution Land Characteristics Consortium. *NLCD 2019 Land Cover* (CONUS). 2019. Raster. Acquired December 5, 2022. https://www.mrlc.gov/data/legends/national-land-cover-database-class-legend-and-description
 
 
