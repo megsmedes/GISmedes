@@ -1,5 +1,5 @@
-# megseggz
-A place for incubating and hatching ideas about GIS maps. 
+# GISmedes
+A Place for sharing GIS maps. 
 
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
