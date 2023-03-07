@@ -1,5 +1,5 @@
 # megseggz
-A place for incubating and hatching ideas. 
+A place for incubating and hatching ideas about GIS. 
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
 
