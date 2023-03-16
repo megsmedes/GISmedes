@@ -10,7 +10,8 @@ A Place for sharing GIS maps.
 
 ## This is a map that shows possible Mexican Spotted Owl priority habitat in El Paso County, CO:
 
-![](https://github.com/megsmedes/megseggz/blob/main/HabitatPriorityMap2.jpg)
+![HabitatPriorityMap2](https://user-images.githubusercontent.com/127235615/225706635-803641ca-1807-4be1-82af-c15ebdf18e85.jpg)
+
 
 
 **References**
