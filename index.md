@@ -29,3 +29,4 @@ A Place for sharing GIS maps.
 
 ## In this map, I used inaturalist data to plot lepidoptera sitings in Jefferson County.  The bottom map takes a closer look at Lair o' the Bear Open Space Park:
 
+![](https://github.com/megsmedes/megseggz/blob/main/SmedesMiniProject_JeffcoButterflies.jpg)
