@@ -4,7 +4,7 @@ A Place for sharing GIS maps.
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
 
-![](https://github.com/megsmedes/megseggz/blob/main/Old_Map_MiniProject1.jpg)
+![Old_Map_MiniProject1](https://user-images.githubusercontent.com/127235615/225705930-5f588cd9-cc34-4432-b5f5-067191c7c113.jpg)
 
 
 
