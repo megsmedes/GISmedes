@@ -1,7 +1,8 @@
 # GISmedes
 
-<img scr="https://user-images.githubusercontent.com/127235615/225709952-250b20e7-fbf7-4bb1-a2ba-122c755d758c.jpg" width="25%" height="25%"> 
+<img src="https://user-images.githubusercontent.com/127235615/225709952-250b20e7-fbf7-4bb1-a2ba-122c755d758c.jpg" width="25%" height="25%"> 
 # Meghan Smedes
+
 A Place for sharing my GIS maps. 
 
 
