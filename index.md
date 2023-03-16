@@ -1,5 +1,6 @@
 # GISmedes
-A Place for sharing GIS maps. 
+## Meghan Smedes
+A Place for sharing my GIS maps. 
 
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
