@@ -1,9 +1,10 @@
 # GISmedes
-## A place for sharing my GIS Maps
 
-<img src="https://user-images.githubusercontent.com/127235615/225709952-250b20e7-fbf7-4bb1-a2ba-122c755d758c.jpg" width="25%" height="25%"> 
+## My Creations in Geographic Information Systems
 
 ## by Meghan Smedes
+
+### Map making is a form of storytelling.  Click on the titles to view the stories I tell of the amazing world we live in.
 
 ## I created this map in FieldMaps.  I plotted locations in my backyard and created a map from the points, lines, and polygons.
 
