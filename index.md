@@ -4,7 +4,7 @@ title: # GISmedes
 nav_order: 1
 ---
 
-# GISmedes
+# GISmedes  <span style="color: blue">GISmedes</span>
 
 ## My Creations in Geographic Information Systems
 
