@@ -12,17 +12,9 @@ nav_order: 1
 
 ### Map making is a form of storytelling.  Click on the table of contents to view the stories I tell of the amazing world we live in.
 
-## This is an example of a map that I georeferenced using ArcGIS Pro:
-
-![Old_Map_MiniProject1](https://user-images.githubusercontent.com/127235615/225705930-5f588cd9-cc34-4432-b5f5-067191c7c113.jpg)
-
-
-
 ## This is a map that shows possible Mexican Spotted Owl priority habitat in El Paso County, CO:
 
 ![HabitatPriorityMap2](https://user-images.githubusercontent.com/127235615/225706635-803641ca-1807-4be1-82af-c15ebdf18e85.jpg)
-
-
 
 **References**
 
