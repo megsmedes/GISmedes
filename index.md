@@ -1,3 +1,9 @@
+---
+layout: default
+title: # GISmedes
+nav_order: 1
+---
+
 # GISmedes
 
 ## My Creations in Geographic Information Systems
