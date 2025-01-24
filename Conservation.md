@@ -15,3 +15,16 @@ nav_order: 4
 ### Land conservationists could use the Very High, High, and Medium rankings on the map to help prioritize habitat preservation when faced with land use decisions. One such decision might be zoning changes. For example, knowing that a land parcel lies within critical habitat and has a high priority designation, land planners could choose to decline rezoning the parcel from agricultural to residential.
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/HabitatPriorityMap2.jpg?raw=true" alt = "Mexican Spotted Owl Habitat Map">
+
+**References**
+
+> United States Forest Service, “The ‘Living Map’ of Mexican Spotted Owl Habitat: Rocky Mountain Research Station.” *The "Living Map" of Mexican Spotted Owl Habitat* | Rocky Mountain Research Station, United States Forest Service, April 2020, https://www.fs.usda.gov/rmrs/projects/living-map-mexican-spotted-owl-habitat
+
+**Data Sources**
+
+> El Paso County, Colorado. *Free GIS Data*. Shapefile. Acquired December 5, 2022 https://admin.elpasoco.com/free-gis-data/
+
+> ESRI AND United States Fish and Wildlife Service. *USA Critical Habitat Final* (MatureSupport). Jan 25, 2021. Shapefile. Acquired December 5, 2022. https://www.arcgis.com/home/item.html?id=bad5c810721c4d0c94cfb93a18119c47
+
+> Multi-Resolution Land Characteristics Consortium. *NLCD 2019 Land Cover* (CONUS). 2019. Raster. Acquired December 5, 2022. https://www.mrlc.gov/data/legends/national-land-cover-database-class-legend-and-description
+
