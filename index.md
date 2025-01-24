@@ -5,6 +5,9 @@
 
 ## by Meghan Smedes
 
+## I created this map in FieldMaps.  I plotted locations in my backyard and created a map from the points, lines, and polygons.
+
+![Old_Map_MiniProject1](https://user-images.githubusercontent.com/127235615/225705930-5f588cd9-cc34-4432-b5f5-067191c7c113.jpg)
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
 
