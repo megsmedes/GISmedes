@@ -6,11 +6,11 @@ nav_order: 1
 
 # <span style="color: blue">**GISmedes**</span>
 
-## My Creations in Geographic Information Systems
+## **My Creations in Geographic Information Systems**
 
-## by Meghan Smedes
+### by Meghan Smedes
 
-### Map making is a form of storytelling.  Click on the titles to view the stories I tell of the amazing world we live in.
+### Map making is a form of storytelling.  Click on the table of contents to view the stories I tell of the amazing world we live in.
 
 ## This is an example of a map that I georeferenced using ArcGIS Pro:
 
