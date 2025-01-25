@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Population Maps
+title: Population
 nav_order: 3
 ---
 
