@@ -28,7 +28,7 @@ nav_order: 4
 ## An Elusive Owl
 
 ### While walking through a Colorado forest in El Paso County, Colorado, one might hear the ethereal "oo oo oo oo oo" of the Mexican Spotted Owl, a federally threatened species. In the Habitat Preservation Priority Map, below, I analyzed the habitat priorities for land managers to protect the home of this special owl.  
-### Mexican Spotted Owls nest on NW facing slopes and they hunt in dense forests.  So, using raster data, I combined NW forest facing slope aspect and evergreen/mixed forest data.  I placed that information within the US Forest Service's Critical Habitat boundary for the Mexican Spotted Owl.  
+### Mexican Spotted Owls nest on NW facing slopes and they hunt in dense forests.  So, using raster data, I combined NW facing slope aspect and evergreen/mixed forest data.  I placed that information within the US Forest Service's Critical Habitat boundary for the Mexican Spotted Owl.  
 ### Land conservationists could use the Very High, High, and Medium rankings on the map to help prioritize habitat preservation when faced with land use decisions. One such decision might be zoning changes. For example, knowing that a land parcel lies within critical habitat and has a high priority designation, land planners could choose to decline rezoning the parcel from agricultural to residential.
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/HabitatPriorityMap2.jpg?raw=true" alt = "Mexican Spotted Owl Habitat Map">
