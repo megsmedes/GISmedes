@@ -17,6 +17,10 @@ nav_order: 4
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/Smedes4850Mini4.jpg?raw=true" alt = "Map of locations to release Grey Wolves in Pitkin County, CO">
 
+**References**
+>Brasch, S. (2022, September 9). Here’s the general region where Colorado plans to reintroduce wolves. Colorado Public Radio. https://www.cpr.org/2022/09/09/where-colorado-will-reintroduce-wolves/
+
+>Taris, J., & CPW, C. of. (2025, January 14). Wolves near release in Pitkin, Eagle or Garfield counties. Aspen Daily News. https://www.aspendailynews.com/news/wolves-near-release-in-pitkin-eagle-or-garfield-counties/article_9d064486-d255-11ef-a602-0bc25ca435b2.html 
 
 ## New Reservoir Next to Heritage Square
 
