@@ -12,21 +12,6 @@ nav_order: 1
 
 ### Map making is a form of storytelling.  Click on the table of contents to view the stories I tell of the amazing world we live in.
 
-## This is a map that shows possible Mexican Spotted Owl priority habitat in El Paso County, CO:
-
-![HabitatPriorityMap2](https://user-images.githubusercontent.com/127235615/225706635-803641ca-1807-4be1-82af-c15ebdf18e85.jpg)
-
-**References**
-
-> United States Forest Service, “The ‘Living Map’ of Mexican Spotted Owl Habitat: Rocky Mountain Research Station.” *The "Living Map" of Mexican Spotted Owl Habitat* | Rocky Mountain Research Station, United States Forest Service, April 2020, https://www.fs.usda.gov/rmrs/projects/living-map-mexican-spotted-owl-habitat
-
-**Data Sources**
-
-> El Paso County, Colorado. *Free GIS Data*. Shapefile. Acquired December 5, 2022 https://admin.elpasoco.com/free-gis-data/
-
-> ESRI AND United States Fish and Wildlife Service. *USA Critical Habitat Final* (MatureSupport). Jan 25, 2021. Shapefile. Acquired December 5, 2022. https://www.arcgis.com/home/item.html?id=bad5c810721c4d0c94cfb93a18119c47
-
-> Multi-Resolution Land Characteristics Consortium. *NLCD 2019 Land Cover* (CONUS). 2019. Raster. Acquired December 5, 2022. https://www.mrlc.gov/data/legends/national-land-cover-database-class-legend-and-description
 
 
 
