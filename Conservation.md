@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conservation Maps
+title: Conservation
 nav_order: 4
 ---
 
