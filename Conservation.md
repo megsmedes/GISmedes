@@ -12,7 +12,7 @@ nav_order: 4
 
 ### Colorado planners are on a quest to acquire enough freshwater to serve the state's booming population growth. In Jefferson County, one project that might be considered is to develop a reservoir next to the old Heritage Square site off of Highway 40. Long-time residents may remember Heritage Square as a small amusement park nestled against the foothills. Through a series of land dealings between Martin Marietta and Jefferson County Open Space, Martin Marietta acquired the land for its rock quarry mining. The Heritage Square site will be protected.
 
-### In my project, I created a map that shows the eventual reclamation site if it is turned into a reservoir in 30-40 years. It shows adjacent watersheds that could be diverted to deliver water to the reservoir.
+### I created a map of the eventual reclamation site if it is turned into a reservoir in 30-40 years. It shows adjacent watersheds that could be diverted to deliver water to the reservoir.
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/MiniProj6_Layout.jpg?raw=true" alt = "Reservoir and at Martin Marietta" >
 
