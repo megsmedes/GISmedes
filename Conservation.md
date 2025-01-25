@@ -9,6 +9,12 @@ nav_order: 4
 
 ## Releasing Grey Wolves
 
+### In November of 2020, Colorado voters elected to re-introduce gray wolves into Colorado with a plan in place by 2024.  Since then, Colorado Parks and Wildlife determined that the best part of the state to reintroduce wolves was where voter approval was high and habitat is suitable.  The analysis narrowed in on southwestern part of the state.
+
+### Pitkin County is a good location for wolf re-introduction because of prevailing animal rights attitudes of local residents. In 2020, "Pitkin County voters approved the measure 61.7% to 38.3%" (Taris). I made a suitability map that analyzed the presence of prey, siutable terrain, and distance from roads. Historically, wolves have been the major predators of elk and moose, who are often too big for mountain lions to take down. Wolves stay away from steep slopes, which provide safety for ungulates while rearing young.  
+
+### The best place to release gray wolves in Pitkin County is on the west side of the county between Highway 133 and Creek Road.  It is highlighted in dark blue on the map below. The second best place to release gray wolves is at the end of Maroon Creek Rd, highlighted in red.  Both locations are within US Forest Service land. 
+
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/Smedes4850Mini4.jpg?raw=true" alt = "Map of locations to release Grey Wolves in Pitkin County, CO">
 
 
