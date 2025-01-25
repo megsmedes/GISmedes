@@ -14,6 +14,8 @@ nav_order: 4
 
 ### In my project, I created a map that shows the eventual reclamation site if it is turned into a reservoir in 30-40 years. It shows adjacent watersheds that could be diverted to deliver water to the reservoir.
 
+<img src = "https://github.com/megsmedes/GISmedes/blob/main/img/MiniProj6_Layout.jpg?raw=true" alt = "Reservoir and at Martin Marietta" >
+
 
 
 ## An Elusive Owl
