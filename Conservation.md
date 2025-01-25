@@ -16,7 +16,10 @@ nav_order: 4
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/MiniProj6_Layout.jpg?raw=true" alt = "Reservoir and at Martin Marietta" >
 
+**References**
+> Boster, S. (2022, January 5). Nearly 1,200 acres added to Jefferson County Open Space portfolio. Colorado Springs Gazette. https://gazette.com/life/nearly-1-200-acres-added-to-jefferson-county-open-space-portfolio/article_aba04ae2-6ce5-11ec-99d1-2783ab917828.html
 
+> Kenney, Andrew. “Jefferson County Could Get 1,200 Acres of Open Space in Exchange for Allowing a Pit Mine to Expand.” Colorado Public Radio, Colorado Public Radio, 7 July 2021, https://www.cpr.org/2021/07/07/jefferson-county-open-space-expansion-martin-marietta-pit-mine/. 
 
 ## An Elusive Owl
 
