@@ -8,6 +8,14 @@ nav_order: 4
 
 ### Conservation of natural resources requires analysis and planning as part of a broad process. Mapping is an incredibly helpful tool for visualizing the future and making important management plans. So often, the plans of land managers can have far-reaching consequences so the inclusion of scientific study and stakeholder perspective are crucial. Maps can bring it all together to help planners imagine what can be.
 
+## A New Reservoir Next to Heritage Square
+
+### Colorado planners are on a quest to acquire enough freshwater to serve the state's booming population growth. In Jefferson County, one project that might be considered is to develop a reservoir next to the old Heritage Square site off of Highway 40. Long-time residents may remember Heritage Square as a small amusement park nestled against the foothills. Through a series of land dealings between Martin Marietta and Jefferson County Open Space, Martin Marietta acquired the land for its rock quarry mining. The Heritage Square site will be protected.
+
+### In my project, I created a map that shows the eventual reclamation site if it is turned into a reservoir in 30-40 years. It shows adjacent watersheds that could be diverted to deliver water to the reservoir.
+
+
+
 ## An Elusive Owl
 
 ### While walking through a Colorado forest in El Paso County, Colorado, one might hear the ethereal "oo oo oo oo oo" of the Mexican Spotted Owl, a federally threatened species. In the Habitat Preservation Priority Map, below, I analyzed the habitat priorities for land managers to protect the home of this special owl.  
