@@ -12,6 +12,6 @@ nav_order: 5
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/New_Amsterdam.jpg?raw=true" alt = "Map of New Amersterdam 1662" width = "40%" height = "40%"> <img src = "https://github.com/megsmedes/GISmedes/blob/main/Georeferenced%20New%20Amsterdam.png?raw=true" alt = "1662 New Amsterdam georeferenced to modern Lower Manhattan"  width = "50%" height = "50%">
 
 
-### This is an example of a 1945 map of Denver that I georeferenced to a present day map of Denver using ArcGIS Pro:
+### This is an example of a 1945 map of Denver that I georeferenced to a present day map of Denver using ArcGIS Pro.  I love the cartography of this old map.  The hand drawn images are so indicitive of the time period.
 
 <img src = "https://github.com/megsmedes/GISmedes/blob/main/Old_Map_MiniProject1.jpg?raw=true" alt = "Map of Old Denver">
