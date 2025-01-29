@@ -4,7 +4,7 @@ title: Field Maps
 nav_order: 2
 ---
 
-## Maps Created using ArcGIS Field Maps
+# Maps Created using ArcGIS Field Maps
 
 ### Using the Field Maps app on my phone, I plotted locations in my backyard and created a map from the points, lines, and polygons.
 
