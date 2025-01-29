@@ -5,7 +5,7 @@ nav_order: 5
 ---
 # Georeferenced Maps
 
-<img src = "https://github.com/megsmedes/GISmedes/blob/main/img/New_Amsterdam.jpg?raw=true" alt = "Map of New Amersterdam 1662" width = "50%" height = "50%"> <img src = "https://github.com/megsmedes/GISmedes/blob/main/Georeferenced%20New%20Amsterdam.png?raw=true" alt = "1662 New Amsterdam georeferenced to modern Lower Manhattan"  width = "60%" height = "60%">
+<img src = "https://github.com/megsmedes/GISmedes/blob/main/img/New_Amsterdam.jpg?raw=true" alt = "Map of New Amersterdam 1662" width = "40%" height = "40%"> <img src = "https://github.com/megsmedes/GISmedes/blob/main/Georeferenced%20New%20Amsterdam.png?raw=true" alt = "1662 New Amsterdam georeferenced to modern Lower Manhattan"  width = "50%" height = "50%">
 
 
 ### Georeferenced maps are paper maps that are locationally matched to a digital map.  Many of these maps are very old and some were hand drawn, before computerized map programming existed.  The original maps didn't always have longitude and latitude.  Distances and sizes of places were often distorted.  Gereferencing is so fun because we get to learn about history while seeing how well the artists rendered place before we had advanced technology.
