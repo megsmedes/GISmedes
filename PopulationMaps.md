@@ -6,6 +6,8 @@ nav_order: 3
 
 # Population Maps
 
+[![Vulnerable Dine Populations Near Well Contamination](https://github.com/megsmedes/GISmedes/blob/main/img/VulPops.png?raw=true)](https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/water-accessibility.html)
+
 ### [Bear Creek High School Diversity](https://megsmedes.github.io/FinalProject.html)
 
 [![Bear Creek High School Diversity](https://github.com/megsmedes/GISmedes/blob/main/img/bear_creek_hs_pop.jpg?raw=true)](https://megsmedes.github.io/FinalProject.html)
