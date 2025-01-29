@@ -7,6 +7,7 @@ nav_order: 3
 # Population Maps
 
 [![Vulnerable Dine Populations Near Well Contamination](https://github.com/megsmedes/GISmedes/blob/main/img/VulPops.png?raw=true)](https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/water-accessibility.html)
+>This map was part of a larger in depth analysis of The Water Quality and Quantity on the Diné (Navajo) Reservation. 
 
 ### [Bear Creek High School Diversity](https://megsmedes.github.io/FinalProject.html)
 
