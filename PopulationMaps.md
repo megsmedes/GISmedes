@@ -4,7 +4,7 @@ title: Population
 nav_order: 3
 ---
 
-## Population Maps
+# Population Maps
 
 ### [Bear Creek High School Diversity](https://megsmedes.github.io/FinalProject.html)
 
