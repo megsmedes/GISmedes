@@ -4,7 +4,7 @@ title: # GISmedes
 nav_order: 1
 ---
 
-# <span style="color: blue">**GISmedes**</span>
+<img src = "https://github.com/megsmedes/GISmedes/blob/main/GISmedeslogo.png?raw=true" alt = "photo and logo">
 
 ## **My Creations in Geographic Information Systems**
 
