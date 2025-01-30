@@ -7,7 +7,7 @@ nav_order: 3
 # Population Maps
 
 [![Vulnerable Dine Populations Near Well Contamination](https://github.com/megsmedes/GISmedes/blob/main/img/VulPops.png?raw=true)](https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/water-accessibility.html)
->This map explores how many people in Navajo Nation are vulnerable to drinking contaminated well water.  The map is part of a larger in depth Earth Data Science analysis of the water quality on the Diné (Navajo) Reservation following the Gold King Mine Spill of 2017. I participated in the research and created this reproducible science website of the study. In an effort to contribute to reproducible science, the website shares code that others could borrow for a similar project.  
+>This map explores the percent of people in Navajo Nation vulnerable to drinking contaminated well water.  The map is part of a larger in-depth Earth Data Science analysis of the <a href="https://cu-esiil-edu.github.io/MSUDenver-DineWaterQuality2023/">water quality on the Diné (Navajo) Reservation</a> following the Gold King Mine Spill of 2017. I participated in the research and created the reproducible science website of the study. In an effort to contribute to reproducible science, the website shares code that others could borrow for a similar project.  
 
 ### [Bear Creek High School Diversity](https://megsmedes.github.io/FinalProject.html)
 
