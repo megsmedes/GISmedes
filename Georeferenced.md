@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Georeferenced
-nav_order: 5
+nav_order: 8
 ---
 # Georeferenced Maps
 
