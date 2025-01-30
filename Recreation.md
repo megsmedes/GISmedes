@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recreation
-nav_order: 6
+nav_order: 5
 ---
 
 # Recreation Maps
