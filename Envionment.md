@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Environment
-nav_order: 7
+nav_order: 6
 ---
 
 # Environmental Maps
