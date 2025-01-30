@@ -12,5 +12,4 @@ nav_order: 3
   <img src = "https://github.com/megsmedes/GISmedes/blob/main/img/monkeysCR.png?raw=true" width="25%" height = "25%">
 </a>
 
-< [![My StoryMap of Costa Rica](https://github.com/megsmedes/GISmedes/blob/main/img/monkeysCR.png?raw=true width="25%" height = "25%")](https://storymaps.arcgis.com/stories/bc5c181036904fb59d81d1f4ba79c141)
-
+> Click on the adorable white-faced capuchins to see the StoryMap.
